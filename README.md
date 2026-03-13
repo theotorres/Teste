@@ -1,2 +1,4 @@
 # Teste
-Teste para o RStudio
+Teste para o RStudio.
+
+O Ivan é um ótimo professor.
